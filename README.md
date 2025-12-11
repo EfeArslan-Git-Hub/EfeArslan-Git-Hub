@@ -71,11 +71,3 @@
 |:---:|:---:|:---:|:---:|
 | [**GenAI Doc Assistant**](https://efe-arslan-rag.streamlit.app) | [**E-Commerce API**](https://efe-arslan-api.onrender.com/docs) | [**Sorting Visualizer**](https://efe-arslan-sorting-visualizer.vercel.app) | [**Cyber Snake AI**](https://cyber-snake-ai.vercel.app) |
 | *Gemini Pro, LangChain* | *FastAPI, Docker, Render* | *React, Vite, Algorithms* | *React, BFS AI, Neon UI* |
-<div align="center">
-  <a href="https://github.com/EfeArslan-Git-Hub">
-    <img src="https://github-readme-stats.vercel.app/api?username=EfeArslan-Git-Hub&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-  </a>
-  <a href="https://github.com/EfeArslan-Git-Hub">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeArslan-Git-Hub&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="langs" />
-  </a>
-</div>
