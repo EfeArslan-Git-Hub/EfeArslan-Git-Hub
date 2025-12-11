@@ -69,7 +69,7 @@
 
 | **AI & RAG** 🧠 | **Backend Architecture** ⚙️ | **Frontend Engineering** 🎨 | **Game Dev** 🎮 |
 |:---:|:---:|:---:|:---:|
-| [**GenAI Doc Assistant**](https://efe-arslan-rag.streamlit.app) | [**E-Commerce API**](https://efe-arslan-api.onrender.com/docs) | [**Sorting Visualizer**](https://efe-arslan-sorting-visualizer.vercel.app) | [**Cyber Snake AI**](https://react-snake-ai.vercel.app) |
+| [**GenAI Doc Assistant**](https://efe-arslan-rag.streamlit.app) | [**E-Commerce API**](https://efe-arslan-api.onrender.com/docs) | [**Sorting Visualizer**](https://efe-arslan-sorting-visualizer.vercel.app) | [**Cyber Snake AI**](https://cyber-snake-ai.vercel.app) |
 | *Gemini Pro, LangChain* | *FastAPI, Docker, Render* | *React, Vite, Algorithms* | *React, BFS AI, Neon UI* |
 
 ---
