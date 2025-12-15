@@ -67,9 +67,7 @@
 
 ### 🌟 Live Projects (Click to Visit)
 
-### 🌟 Live Projects (Click to Visit)
-
-| **Symbolic AI** 📐 | **AI & RAG** 🧠 | **Backend Architecture** ⚙️ | **Game Dev** 🎮 | **Frontend Engineering** 🎨 |
+| **SaaS & AI** 🧠 | **Symbolic AI** 📐 | **RAG Chatbot** 🤖 | **Backend API** ⚙️ | **Game Dev** 🎮 |
 |:---:|:---:|:---:|:---:|:---:|
-| [**Math Wizard**](https://symbolic-geometry-solver.vercel.app/) | [**GenAI Doc Assistant**](https://efe-arslan-rag.streamlit.app) | [**E-Commerce API**](https://efe-arslan-api.onrender.com/docs) | [**Cyber Snake AI**](https://cyber-snake-ai.vercel.app) | [**Sorting Visualizer**](https://efe-arslan-sorting-visualizer.vercel.app) |
-| *React, SymPy, 3D Viz* | *Gemini Pro, LangChain* | *FastAPI, Docker, Render* | *React, BFS AI, Neon UI* | *React, Vite, Algorithms* |
+| [**Lumina App**](https://lumina-ai-knowledge-base.vercel.app/) | [**Math Wizard**](https://symbolic-geometry-solver.vercel.app/) | [**Doc Assistant**](https://efe-arslan-rag.streamlit.app) | [**E-Commerce API**](https://efe-arslan-api.onrender.com/docs) | [**Cyber Snake**](https://cyber-snake-ai.vercel.app) |
+| *Next.js 14, Supabase* | *React, SymPy, 3D Viz* | *Gemini, LangChain* | *FastAPI, Docker* | *React, BFS AI* |
