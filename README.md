@@ -65,7 +65,7 @@
 
 ---
 
-### 🌟 Live Projects (Click to Visit)
+### 🌟 Live Projects (Click to Visit) 
 
 | **SaaS & AI** 🧠 | **Symbolic AI** 📐 | **Algorithmic AI** 🧬 | **RAG Chatbot** 🤖 |
 |:---:|:---:|:---:|:---:|
