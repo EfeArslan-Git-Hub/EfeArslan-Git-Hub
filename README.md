@@ -64,12 +64,6 @@
 </div>
 
 ---
-### 🌟 Live Projects (Click to Visit)
-
-| **System Architecture** 🏗️ | **Algorithmic AI** 🧬 | **Symbolic AI** 📐 |
-|:---:|:---:|:---:|
-| [**Raft Consensus**](https://distributed-state-consensus-engine.vercel.app/) | [**Topology Synth**](https://algorithmic-topology-synthesizer.vercel.app/) | [**Math Wizard**](https://symbolic-geometry-solver.vercel.app/) |
-| *XState, Framer Motion* | *TS, Canvas, BSP Trees* | *React, SymPy, 3D Viz* |
 
 | **SaaS & AI** 🧠 | **RAG Chatbot** 🤖 | **Backend API** ⚙️ |
 |:---:|:---:|:---:|
@@ -82,7 +76,7 @@
 | [**Lumina App**](https://lumina-ai-knowledge-base.vercel.app/) | [**Math Wizard**](https://symbolic-geometry-solver.vercel.app/) | [**Topology Synth**](https://algorithmic-topology-synthesizer.vercel.app/) | [**Doc Assistant**](https://efe-arslan-rag.streamlit.app) |
 | *Next.js 14, Supabase* | *React, SymPy* | *TS, Canvas, BSP* | *Gemini, LangChain* |
 
-| **Backend API** ⚙️ | **Game Dev** 🎮 | **Algorithms** 🎨 |
-|:---:|:---:|:---:|
-| [**E-Commerce API**](https://efe-arslan-api.onrender.com/docs) | [**Cyber Snake**](https://cyber-snake-ai.vercel.app) | [**Sorting Viz**](https://efe-arslan-sorting-visualizer.vercel.app) |
-| *FastAPI, Docker* | *React, BFS AI* | *React, Vite* |
+| **Backend API** ⚙️ | **Game Dev** 🎮 | **Algorithms** 🎨 | **System Architecture** 🏗️ | 
+|:---:|:---:|:---:|:---:|
+| [**E-Commerce API**](https://efe-arslan-api.onrender.com/docs) | [**Cyber Snake**](https://cyber-snake-ai.vercel.app) | [**Sorting Viz**](https://efe-arslan-sorting-visualizer.vercel.app) | [**Raft Consensus**](https://distributed-state-consensus-engine.vercel.app/) | 
+| *FastAPI, Docker* | *React, BFS AI* | *React, Vite* | *XState, Framer Motion* |
